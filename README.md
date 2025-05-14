@@ -1,7 +1,7 @@
 # Case Técnico PicPay
 
 ## Input
-O notebook criado nesse projeto lê um dataset em formato CSV com registros de transações financeiras, contendo os seguintes atributos:
+O [python notebook](manipulacao-de-dados.ipynb) criado nesse projeto lê um dataset em formato CSV com registros de transações financeiras, contendo os seguintes atributos:
 
 | Campo                   | Descrição                                                                                                            |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------|
