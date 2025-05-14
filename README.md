@@ -30,6 +30,6 @@ O dicionário de dados completo para os datasets criados pode ser conferido [aqu
 
 ## Requisitos
 - Python 3.12+: Linguagem usada para análise e manipulação de dados.
-- Pandas: Manipulação de tabelas e dados estruturados.
-- NumPy: Operações matemáticas e com arrays.
+- Pandas 2.2.0+: Manipulação de tabelas e dados estruturados.
+- NumPy 1.26.3+: Operações matemáticas e com arrays.
 - os: Acesso a funcionalidades do sistema operacional.
